@@ -1,0 +1,36 @@
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  label {
+    margin-bottom: 5px;
+  }
+  
+  input {
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+  }
+  
+  .plus { 
+    background-color: #4caf50;
+    color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+  } 
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  .ani{
+    display: flex;
+    justify-content: center;
+  }

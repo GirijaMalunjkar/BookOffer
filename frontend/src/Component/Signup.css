@@ -1,0 +1,55 @@
+/* Container styling */
+.container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 50px;
+  }
+  
+  /* Heading styling */
+  h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Form styling */
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Label styling */
+  label {
+    margin-bottom: 5px;
+  }
+  
+  /* Input field styling */
+  input {
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  /* Error message styling */
+  span {
+    font-size: 12px;
+    color: red;
+  }
+  
+  /* Button styling */
+  /* button {
+    background-color: #4caf50;
+    color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+   */
+  button:hover {
+    background-color: #45a049;
+  }
+  
